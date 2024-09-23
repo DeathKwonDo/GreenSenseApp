@@ -1,5 +1,5 @@
 # GreenSenseApp
-GreenSenseApp is an app developed to give you assisten with your personal plant display at home. Use to plot the data colected by the GreenSense sensors at home
+GreenSenseApp is an app developed to give you assistence with your personal plant display at home. Use to plot the data colected by the GreenSense sensors at home
 
 Neste linkk você encontrará a descrição do projeto e seu cronograma detalhado buscando desenvolver o projéto em 6 mêses:
     Trello: https://trello.com/invite/b/lwd6yvYc/ATTI59e4c7df927fa515f3bfbce92ba87b53AA707E17/greensense
